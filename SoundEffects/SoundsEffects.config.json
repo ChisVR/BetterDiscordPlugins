@@ -1,0 +1,19 @@
+{
+    "info": {
+        "name": "SoundsEffects",
+        "authors": [{
+            "name": "ChisVR#7172",
+            "discord_id": "100463282099326976",
+            "github_username": "ChisVR",
+            "twitter_username": "chisvrofficial"
+        }],
+        "version": "1.1.1",
+        "description": "Plays Sound Effects By Any Message been Typed in Chat",
+        "github": "https://github.com/ChisVR/BetterDiscordPlugins/blob/main/SoundEffects/SoundsEffects.plugin.js",
+        "github_raw": "https://raw.githubusercontent.com/ChisVR/BetterDiscordPlugins/blob/main/SoundEffects/SoundsEffects.plugin.js"
+    },
+    "changelog": [
+        {"title": "On-going", "type": "progress", "items": ["More sounds being added :)", "Other"]}
+    ],
+    "main": "SoundsEffects.index.js"
+}

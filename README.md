@@ -1,2 +1,2 @@
 # BetterDiscordPlugins
-My BetterDiscord Plugins Lists
+Better Discord plugins that i've created
